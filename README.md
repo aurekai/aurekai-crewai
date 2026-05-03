@@ -6,7 +6,7 @@
 
 Aurekai integration surface for Crewai.
 
-Status: planned
+Status: active
 Type: agent
 
 ## Core Template Set
